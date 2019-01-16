@@ -1,2 +1,2 @@
 import createStroe from './createStore'
-console.log(1)
+console.log(2)
