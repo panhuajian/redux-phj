@@ -1,3 +1,1 @@
-import createStore from './createStore.js';
-
-createStore()
+import createStroe from './createStore'
