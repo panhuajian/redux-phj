@@ -1,0 +1,33 @@
+{
+  "name": "redux-phj",
+  "version": "1.0.0",
+  "description": "普通版redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panhuajian/redux-phj.git"
+  },
+  "author": "panhuajian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panhuajian/redux-phj/issues"
+  },
+  "homepage": "https://github.com/panhuajian/redux-phj#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "clean-webpack-plugin": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
