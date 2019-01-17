@@ -1,4 +1,3 @@
-
 export default function (reducers, initState) {
   let defaultAction = {
     type: 'default_action'
